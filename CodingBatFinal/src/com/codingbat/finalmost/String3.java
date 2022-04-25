@@ -139,7 +139,7 @@ public class String3 {
 				  int maxLen=0;
 				  for(int i=0;i<str.length();i++){
 				    
-				    char c= str.charAt(i);
+				    char c= str.charAt(i);// testtttttt
 				    int j=i+1;
 				    while(j<str.length() && str.charAt(j)==c){
 				      j++;
